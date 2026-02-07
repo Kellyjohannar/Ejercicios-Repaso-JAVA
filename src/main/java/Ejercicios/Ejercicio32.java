@@ -3,7 +3,6 @@ package Ejercicios;
 // Clase Coche con velocidad actual y métodos acelerar() y frenar().
 public class Ejercicio32 {
     public static void main(String[] args) {
-        // Crear coches
         Coche coche1 = new Coche("Kia");
         Coche coche2 = new Coche("Chevrolet");
 
