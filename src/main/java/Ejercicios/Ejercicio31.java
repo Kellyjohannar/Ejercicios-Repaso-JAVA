@@ -4,6 +4,15 @@ package Ejercicios;
 public class Ejercicio31 {
     public static void main(String[] args) {
         Persona persona = new Persona("Kelly Johanna", 26);
+
+        System.out.println("Nombre: " + persona.getNombre());
+        System.out.println("Edad: " + persona.getEdad());
+
+        if (persona.esMayorDeEdad()) {
+            System.out.println(persona.getNombre() + " es mayor de edad.");
+        } else {
+            System.out.println(persona.getNombre() + " no es mayor de edad.");
+        }
     }
 }
 
