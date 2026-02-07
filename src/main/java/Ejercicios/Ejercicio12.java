@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Media de un array de números reales.
 
 public class Ejercicio12 {

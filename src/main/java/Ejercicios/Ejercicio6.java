@@ -1,3 +1,5 @@
+package Ejercicios;
+
 // Contador de números: cuenta cuántos números positivos, negativos y ceros recibe el usuario (hasta introducir -999).
 
 import java.util.Scanner;

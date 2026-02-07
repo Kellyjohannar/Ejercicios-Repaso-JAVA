@@ -1,3 +1,5 @@
+package Ejercicios;
+
 /*Área de un círculo: pide el radio y calcula el área.*/
 
 import static java.lang.Math.PI;

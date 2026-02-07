@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Buscar un elemento dentro de un array (secuencial).
 
 public class Ejercicio13 {

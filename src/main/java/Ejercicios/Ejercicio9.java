@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Invertir una cadena introducida por teclado.
 
 import java.util.Scanner;

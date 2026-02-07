@@ -1,3 +1,5 @@
+package Ejercicios;
+
 // Conversor decimal → binario sin usar métodos de Java.
 public class Ejercicio26 {
     public static String convertirDecimalABinario(int numeroDecimal) {

@@ -1,3 +1,5 @@
+package Ejercicios;
+
 /*Suma de dos números: pide dos números por teclado y muestra su suma.*/
 
 import java.util.Scanner;

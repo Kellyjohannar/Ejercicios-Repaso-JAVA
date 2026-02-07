@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Generador de contraseñas aleatorias con minúsculas, mayúsculas y números.
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+package Ejercicios;
+
 // Validar email con condiciones básicas (contiene @, punto, longitud mínima…).
 public class Ejercicio27 {
     public static boolean validarEmail(String email) {

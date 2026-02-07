@@ -1,3 +1,5 @@
+package Ejercicios;
+
 /*Número par o impar.*/
 
 import java.util.Scanner;

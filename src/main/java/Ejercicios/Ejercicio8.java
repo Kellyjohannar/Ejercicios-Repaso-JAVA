@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Números primos hasta N.
 
 import java.util.Scanner;

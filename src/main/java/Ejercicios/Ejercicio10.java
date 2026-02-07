@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Contar vocales en una frase.
 
 import java.util.Scanner;

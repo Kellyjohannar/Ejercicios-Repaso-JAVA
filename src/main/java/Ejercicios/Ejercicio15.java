@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Eliminar duplicados de un array (sin usar Set).
 public class Ejercicio15 {
     

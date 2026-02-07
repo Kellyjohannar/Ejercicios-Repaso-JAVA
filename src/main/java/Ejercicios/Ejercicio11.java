@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Array de 10 enteros: pedirlos y mostrar el mayor y el menor.
 
 import java.util.Scanner;

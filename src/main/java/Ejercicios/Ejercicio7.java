@@ -1,3 +1,5 @@
+package Ejercicios;
+
 //Factorial de un número usando un bucle for.
 
 import java.util.Scanner;

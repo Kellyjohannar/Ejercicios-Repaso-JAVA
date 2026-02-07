@@ -1,3 +1,5 @@
+package Ejercicios;
+
 // Contador de palabras en una frase.
 public class Ejercicio18 {
     public static void main(String[] args) {

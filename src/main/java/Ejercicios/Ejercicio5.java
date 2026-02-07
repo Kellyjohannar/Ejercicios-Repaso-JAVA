@@ -1,3 +1,5 @@
+package Ejercicios;
+
 // Tabla de multiplicar de un número introducido.
 
 import java.util.Scanner;
